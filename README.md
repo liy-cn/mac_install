@@ -5,3 +5,6 @@
 ----------
 新增了一些常用的git配置
 
+装xmind www.xmind.net
+nodejs  www.nodejs.org
+装WebStorm
