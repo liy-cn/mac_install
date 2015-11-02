@@ -2,7 +2,9 @@
 开发人员是怎么装mac的，常用配置、工具等
 
 ## 2015年11月02日
-===
+
+## Atom
+http://atom.io 更新至最新版
 
 ## github的官方客户端
 支持mac、windows https://desktop.github.com/
@@ -10,9 +12,51 @@
 ## 更新Git到最新版
 http://git-scm.com
 
+## PDF Reader X
 
-## 2015-10-29
-***
+## QQ 音乐
+
+## Clean My Mac 3
+
+## Chrome
+
+## Axure 7
+
+## 为知笔记
+
+## QQ浏览器
+
+## 迅雷
+
+## MplayerX
+
+## ArcSoft Photo+
+
+## The Unarchiver
+
+## 腾讯电脑管家
+
+## real vnc
+
+## SKETCH
+
+## Adobe Photoshop & Illustrator
+
+## Paragon NTFS
+
+## Snip
+
+## Genymotion
+
+## Virtual Box
+
+## MySQLWorkBench
+
+## Windows远程桌面
+Microsoft 适用于 Mac 的远程桌面连接客户端 2.1.1
+http://www.microsoft.com/zh-cn/download/details.aspx?id=18140
+
+## 2015年10月29日
 
 ## git
 新增了一些常用的git配置
@@ -25,6 +69,7 @@ http://www.nodejs.org
 
 ## WebStorm
 http://www.jetbrains.com/webstorm/
+http://appcode.aliapp.com
 
 ## Android Studio
  android-studio-ide-141.2288178-mac.dmg
