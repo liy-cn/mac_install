@@ -1,6 +1,14 @@
 # mac_install
 开发人员是怎么装mac的，常用配置、工具等
 
+## 2015年11月03日
+.bash_profile文件
+alias ls="ls -h"
+alias l="ls -lh"
+alias ll="ls -alh"
+alias md="mkdir'
+
+
 ## 2015年11月02日
 
 ## Atom
