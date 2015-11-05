@@ -1,6 +1,29 @@
 # mac_install
 开发人员是怎么装mac的，常用配置、工具等
 
+## 2015年11月05日
+关于Office
+office2016 for mac可以破解，选择的15.14版本，其他版本待验证
+
+所以，务必卸载之前office，下载下面的安装包。安装后再运行和谐程序。
+- Microsoft Office Word 15.14.0:
+Direct download from MS: http://download.microsoft.com/download/B/6/C/B6CE5B3D-0522-49E5-85D9-B19502C271B8/Microsoft_Word_15.14.0_Updater.pkg
+
+- Microsoft Office Excel 15.14.0:
+Direct download from MS: http://download.microsoft.com/download/1/7/8/178C4FDB-1B9E-4039-A060-658689506D4C/Microsoft_Excel_15.14.0_Updater.pkg
+
+- Microsoft Office Powerpoint 15.14.0:
+Direct download from MS: http://download.microsoft.com/download/9/0/7/907A07B5-D983-4F5C-A592-6BBF54B153C4/Microsoft_PowerPoint_15.14.0_Updater.pkg
+
+- Microsoft Office Outlook 15.14.0:
+Direct download from MS: http://download.microsoft.com/download/1/7/7/1777B58A-6EBD-49A4-B8A4-2B3845E79110/Microsoft_Outlook_15.14.0_Updater.pkg
+
+- Microsoft Office OneNote 15.14.0:
+Direct download from MS: http://download.microsoft.com/download/8/C/B/8CBF1ADF-1C81-4EF3-A716-0E337E19E2CC/Microsoft_OneNote_15.14.0_Updater.pkg
+
+和谐程序见：http://bbs.feng.com/read-htm-tid-9928890.html
+
+
 ## 2015年11月03日
 .bash_profile文件
 alias ls="ls -h"
