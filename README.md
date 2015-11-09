@@ -1,6 +1,54 @@
 # mac_install
 开发人员是怎么装mac的，常用配置、工具等
 
+## 2015年11月10日
+
+Shell相关配置：
+Basic 2：Menlo Regular 13磅，背景白色无透明，标题页签勾选路径，去掉可听响铃。
+Pro 2：Monaco 14磅，黑色不透明度95%，标题页签勾选路径，去掉可听响铃。
+
+Atom相关插件：
+- Sublime-Style-Column-Selection
+Enable Sublime style 'Column Selection'. Just hold 'alt' while you select. Also similar to Texmate's 'Multiple Carets', or BBEdit's 'Block Select'
+- atom-beautify
+Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, and SQL in Atom
+- color-picker
+Right click or press CMD-SHIFT-C/CTRL-ALT-C to open it.
+- csslint
+CSSLint error reports for your Atom editor
+- docblockr
+A helper package for writing documentation
+- emmet
+Emmet – the essential tool for web developers
+- file-icons
+Assign file extension icons and colours for improved visual grepping
+- git-plus
+Do git things without the terminal
+- htmlhint
+HTMLHint reports for your Atom editor
+- jshint
+Validate JavaScript with JSHint. In realtime or on save. Supports JSX (React).
+- language-swift
+Swift language support in Atom
+- linter
+A Base Linter with Cow Powers
+- linter-csslint
+Lint CSS on the fly, using csslint
+- linter-jscs
+Linter plugin for JavaScript, using JSCS
+- merge-conflicts
+Resolve git conflicts within Atom
+- minimap
+A preview of the full source code.
+- node-debugger
+Debugger For Nodejs
+- open-recent
+Open recent files in the current window, and recent folders (optionally) in a new window.
+- pigments
+A package to display colors in project and files.
+- vim-mode
+Add vim modal control
+
 ## 2015年11月09日
 用python可以创建一个简单的http服务器，方便调试
 $sudo python -m SimpleHTTPServer 80
@@ -54,6 +102,12 @@ Direct download from MS: http://download.microsoft.com/download/8/C/B/8CBF1ADF-1
 - alias l="ls -lGh"
 - alias ll="ls -aGlh"
 - alias md="mkdir'
+export CLICOLOR=1
+export LSCOLORS=gxfxaxdxcxegedabagacad
+
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
+fi
 
 
 ## 2015年11月02日
