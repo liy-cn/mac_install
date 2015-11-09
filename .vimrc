@@ -3,7 +3,7 @@ set enc=utf-8
 set number
 filetype on 
 set history=1000 
-set background=dark 
+set background=light 
 syntax on 
 "set autoindent
 "set smartindent
@@ -15,8 +15,4 @@ set vb t_vb=
 set ruler
 set nohls
 set incsearch
-if has("vms")
 set nobackup
-else
-set backup
-endif
