@@ -100,7 +100,8 @@ http://www.nodejs.org
 
 ## WebStorm
 http://www.jetbrains.com/webstorm/
-http://appcode.aliapp.com
+（最新版的需要用服务器激活）注册时选择“License server”输入“http://idea.lanyus.com/”点击“OK”快速激活JetBrains系列产品
+详见：http://appcode.aliapp.com
 
 ## Android Studio
  android-studio-ide-141.2288178-mac.dmg
