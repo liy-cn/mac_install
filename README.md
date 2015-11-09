@@ -1,6 +1,10 @@
 # mac_install
 开发人员是怎么装mac的，常用配置、工具等
 
+##2015年11月09日
+用python可以创建一个简单的http服务器，方便调试
+$sudo python -m SimpleHTTPServer 80
+
 ## 2015年11月05日
 关于Office
 office2016 for mac可以破解，选择的15.14版本，其他版本待验证
@@ -26,10 +30,10 @@ Direct download from MS: http://download.microsoft.com/download/8/C/B/8CBF1ADF-1
 
 ## 2015年11月03日
 .bash_profile文件
-alias ls="ls -h"
-alias l="ls -lh"
-alias ll="ls -alh"
-alias md="mkdir'
+- alias ls="ls -Gh"
+- alias l="ls -lGh"
+- alias ll="ls -aGlh"
+- alias md="mkdir'
 
 
 ## 2015年11月02日
