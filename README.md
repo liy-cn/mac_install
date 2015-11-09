@@ -1,9 +1,29 @@
 # mac_install
 开发人员是怎么装mac的，常用配置、工具等
 
-##2015年11月09日
+## 2015年11月09日
 用python可以创建一个简单的http服务器，方便调试
 $sudo python -m SimpleHTTPServer 80
+
+### 配置vi
+主要是编辑.vimrc文件，具体内容见工程中文件，可以有代码分色、(){}匹配等功能，
+还有就是注意把自动indent关掉，否则在粘贴代码的时候总出问题。
+
+### 配置NPM
+npm上直接安装包的速度也挺快的，就没有配置淘宝的npm源，如果要配置，可以参考：
+http://npm.taobao.org/
+
+另外一种方法:在配置文件 ~/.npmrc 文件写入源地址
+
+    nano ~/.npmrc   //打开配置文件
+    registry =https://registry.npm.taobao.org   //写入配置文件
+
+
+### 安装Bower
+    #sudo npm install -g bower
+好多命令，比如装reactjs时用的babel-cli都需要在命令前加sodu，然后输入密码，否则会出现权限不够，无法写入的问题
+    #npm install --global babel-cli
+    #npm install babel-preset-react
 
 ## 2015年11月05日
 关于Office
