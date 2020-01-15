@@ -1,6 +1,23 @@
 # mac_install
 开发人员是怎么装mac的，常用配置、工具等
 
+## 2020年1月15日
+
+一些常用工具：
+- 搜狗输入法
+- 压缩解压工具：BetterZip
+- 办公软件套装：微软Office
+- 视频播放器：Movist
+- 音乐播放器：网易云音乐
+- 聊天工具：QQ
+- 移动硬盘写入驱动：Tuxera NTFS
+- 虚拟机：VMware Fusion
+- 系统监控工具：iStat Menus
+- 看图软件：Xee
+- 系统维护和清理：CleanMyMac
+
+
+
 ## 2015年11月10日
 
 Shell相关配置：
@@ -192,7 +209,7 @@ http://www.microsoft.com/zh-cn/download/details.aspx?id=18140
 ## xmind
 http://www.xmind.net
 
-## nodejs  
+## nodejs
 http://www.nodejs.org
 
 ## WebStorm
